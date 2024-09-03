@@ -14,7 +14,7 @@ The primary objectives of this project are:
 
 The analysis is based on two datasets:
 
-- **KOKAM SLPB 52495:** Data is sourced from an Excel file (`kokum_data.xlsx`) containing time-series measurements of voltage, current, power, charge cycles, and accumulated charge/discharge (Ah).
+- **KOKAM SLPB 526495:** Data is sourced from an Excel file (`kokum_data.xlsx`) containing time-series measurements of voltage, current, power, charge cycles, and accumulated charge/discharge (Ah).
 - **LG Chem INR21700 M5018.20:** Similar data is obtained from an Excel file (`LG_data.xlsx`) for the LG Chem battery.
 
 ## Analysis and Visualization
