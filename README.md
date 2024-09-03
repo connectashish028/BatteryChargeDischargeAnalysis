@@ -1,6 +1,6 @@
 # Data-Driven Battery Performance Analysis
 
-This repository contains a Jupyter Notebook that performs a comprehensive analysis of two battery types: KOKAM SLPB 52495 Pouch Cell and LG Chem INR21700 M5018.20. The analysis leverages data analysis, visualization, and machine learning techniques to gain insights into battery performance and predict capacity.
+This repository contains a Jupyter Notebook that performs a comprehensive analysis of two battery types: KOKAM SLPB 526495 Pouch Cell and LG Chem INR21700 M5018.20. The analysis leverages data analysis, visualization, and machine learning techniques to gain insights into battery performance and predict capacity.
 
 ## Project Overview
 
